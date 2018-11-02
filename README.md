@@ -1,2 +1,2 @@
 # TextPad
-![Textpad](textpad.PNG)
+![Textpad](textpad.PNG "ScreenShot")
